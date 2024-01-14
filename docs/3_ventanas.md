@@ -1,6 +1,6 @@
 [< Home](../README.md)
 
-# 2. Ventanas
+# 3. Ventanas
  Uno de los componentes principales de **Tkinter**, son las ventanas.
 
 * Para crear una ventana tenemos el siguiente código:
